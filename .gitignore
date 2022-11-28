@@ -1,2 +1,3 @@
-*.txt
+MQ_Messages*
+rabbitHTML.txt
 *.code-workspace
